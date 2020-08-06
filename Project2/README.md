@@ -25,4 +25,4 @@ Software_engineering
 
 >2015722070 고은나래 (https://github.com/Kkenr)
 
->2015722082 정지현  (https://github.com/JUNGJI024)
+>2015722082 정지현  (https://github.com/jhj1024)
